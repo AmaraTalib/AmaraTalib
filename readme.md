@@ -70,11 +70,11 @@ I'm currently learning Chinese and working towards becoming more comfortable wit
 
 ---
 
-## Thoughts
-
 <div align="center">
 
-<img src="https://github-readme-quotes-bay.vercel.app/quote?quoteCategory=programming&theme=light&layout=socrates&font=Redressed&fontColor=D05A9D&fontSize=24" width="760"/>
+<img src="https://github-readme-quotes-bay.vercel.app/quote?quoteCategory=programming&theme=light&layout=socrates&font=Redressed&fontColor=D05A9D&fontSize=32" width="700"/>
+
+</div>
 
 </div>
 
