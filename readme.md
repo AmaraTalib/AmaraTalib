@@ -7,7 +7,7 @@
 </a>
 
 <p>
-桜 · 学ぶ · 作る · 成長する
+樱花 · 学习 · 创造 · 成长
 </p>
 
 <p>
@@ -26,12 +26,12 @@ I'm currently strengthening my programming and problem-solving skills through co
 
 Outside of coding, I'm learning **Chinese** and enjoy discovering new languages, ideas, and technologies.
 
-> 学び続ける
+> 继续学习
 > *Keep learning.*
 
 ---
 
-## Currently Learning
+## Skills
 
 <div align="center">
 
@@ -172,7 +172,7 @@ International Islamic University, Islamabad
 | Urdu     | Native                      |
 | English  | Fluent                      |
 | Chinese  | Limited Working Proficiency |
-
+| Arabic   | Elementary Proficiency      |
 ---
 
 ## GitHub Activity
