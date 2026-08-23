@@ -151,52 +151,6 @@ Worked on responsive web pages and improved UI layouts during my web development
 
 ---
 
-## Experience
-
-
-### Graphic Design, LinkedIn & Web Development Intern
-**Skillistan** · Islamabad / On site  
-`29 June 2026 — 28 August 2026`
-
-- Worked on graphic design and visual content for social media.
-- Assisted with LinkedIn content and page management.
-- Worked on web development tasks as part of the team.
-- Created and adapted visual content for different digital platforms.
-
-### Content Strategy Intern
-**Techironed Solutions** · Remote  
-`1 Month`
-
-- Worked on content strategy for platforms including YouTube and Instagram.
-- Researched content ideas and audience-focused topics.
-- Explored content packaging, hooks, thumbnails, and social media strategies.
-- Contributed to planning and developing content for digital platforms.
-
-### English Tutor
-**Private Tutoring** · Remote  
-
-- Taught English to a Chinese student.
-- Helped with English vocabulary, grammar, reading, and everyday communication.
-- Adapted lessons and explanations to make concepts easier to understand.
-
-### Web Development Intern
-
-**Techironed Solutions · Islamabad / Remote**
-
-`June 2025 — August 2025`
-
-* Developed responsive web pages using HTML5 and CSS3.
-* Improved UI layouts and front-end designs through assigned development tasks.
----
-
-## Education
-
-**BS Computer Science**
-International Islamic University, Islamabad
-`2023 — Present`
-
----
-
 ## Languages
 
 | Language | Level                       |
@@ -227,7 +181,7 @@ International Islamic University, Islamabad
 
 
 
-### Still learning. Still building.
+### learning. building.
 
 *少しずつ、前へ。*
 
