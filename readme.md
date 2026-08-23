@@ -2,7 +2,7 @@
 
 <a href="https://github.com/AmaraTalib">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D05A9D&text=AMARA%20TALIB&fontSize=42&fontAlignY=45&desc=Computer%20Science%20Student%20%C2%B7%20Developer%20in%20Progress&descSize=16&descAlignY=72&descColor=8F7899" width="700"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&font=Playfair%20Display&fontColor=D05A9D&text=Amara%20Talib&fontSize=44&fontAlignY=45&desc=Computer%20Science%20Student%20%C2%B7%20Developer%20in%20Progress&descSize=16&descAlignY=72&descColor=8F7899" width="700"/>
 
 </a>
 
@@ -20,9 +20,7 @@
 
 ## About Me
 
-I'm a **7th-semester Computer Science student** at the International Islamic University, Islamabad.
-
-I'm currently strengthening my programming and problem-solving skills through coursework and personal projects. I'm interested in **software development** and **computer vision**, while continuing to explore different areas of technology.
+I'm a **Computer Science student** who enjoys learning by building things and figuring out how different pieces of technology fit together. My projects have taken me from Java and database systems to web development, and I'm gradually expanding into areas like computer vision and AI. I like exploring different technologies rather than limiting myself to one path, and I'm especially interested in turning what I learn into things that actually work
 
 Outside of coding, I'm learning **Chinese** and enjoy discovering new languages, ideas, and technologies.
 
@@ -146,6 +144,32 @@ Worked on responsive web pages and improved UI layouts during my web development
 
 ## Experience
 
+
+### Graphic Design, LinkedIn & Web Development Intern
+**Skillistan** · Islamabad / On site  
+`29 June 2026 — 28 August 2026`
+
+- Worked on graphic design and visual content for social media.
+- Assisted with LinkedIn content and page management.
+- Worked on web development tasks as part of the team.
+- Created and adapted visual content for different digital platforms.
+
+### Content Strategy Intern
+**Techironed Solutions** · Remote  
+`1 Month`
+
+- Worked on content strategy for platforms including YouTube and Instagram.
+- Researched content ideas and audience-focused topics.
+- Explored content packaging, hooks, thumbnails, and social media strategies.
+- Contributed to planning and developing content for digital platforms.
+
+### English Tutor
+**Private Tutoring** · Remote  
+
+- Taught English to a Chinese student.
+- Helped with English vocabulary, grammar, reading, and everyday communication.
+- Adapted lessons and explanations to make concepts easier to understand.
+
 ### Web Development Intern
 
 **Techironed Solutions · Islamabad / Remote**
@@ -154,7 +178,6 @@ Worked on responsive web pages and improved UI layouts during my web development
 
 * Developed responsive web pages using HTML5 and CSS3.
 * Improved UI layouts and front-end designs through assigned development tasks.
-
 ---
 
 ## Education
@@ -179,13 +202,13 @@ International Islamic University, Islamabad
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AmaraTalib&show_icons=true&hide_border=true&bg_color=00000000&title_color=D05A9D&icon_color=C8B6E8&text_color=8F7899" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AmaraTalib&show_icons=true&hide_border=true&bg_color=FFF7FA&title_color=D05A9D&icon_color=C8B6E8&text_color=8F7899" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaraTalib&layout=compact&hide_border=true&bg_color=00000000&title_color=D05A9D&text_color=8F7899" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaraTalib&layout=compact&hide_border=true&bg_color=FFF7FA&title_color=D05A9D&text_color=8F7899" height="165"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=AmaraTalib&hide_border=true&background=00000000&ring=D05A9D&fire=C8B6E8&currStreakLabel=D05A9D&sideLabels=8F7899&dates=8F7899" />
+<img src="https://streak-stats.demolab.com/?user=AmaraTalib&theme=default&hide_border=true&ring=D05A9D&fire=D05A9D&currStreakLabel=D05A9D&sideLabels=8F7899&dates=8F7899&background=FFF7FA" />
 
 </div>
 
