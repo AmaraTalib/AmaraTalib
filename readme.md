@@ -70,14 +70,15 @@ I'm currently learning Chinese and working towards becoming more comfortable wit
 
 ---
 
+## Thoughts
+
 <div align="center">
 
-<img src="https://github-readme-quotes-bay.vercel.app/quote?quoteCategory=programming&theme=light&layout=socrates&font=Redressed&fontColor=D05A9D&fontSize=32" width="700"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quoteColor=D05A9D&authorColor=B02663&backgroundColor=FFF0F5&symbolColor=B02663" width="850"/>
 
 </div>
 
-</div>
-
+---
 ## Selected Projects
 
 <table>
@@ -224,7 +225,7 @@ International Islamic University, Islamabad
 
 <br><br>
 
-桜
+
 
 ### Still learning. Still building.
 
