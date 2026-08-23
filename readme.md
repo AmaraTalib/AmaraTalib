@@ -74,7 +74,7 @@ I'm currently learning Chinese and working towards becoming more comfortable wit
 
 <div align="center">
 
-![Developer Quote](https://github-readme-quotes-bay.vercel.app/quote?quoteCategory=programming&theme=light&layout=socrates&font=Redressed)
+<img src="https://github-readme-quotes-bay.vercel.app/quote?quoteCategory=programming&theme=light&layout=socrates&font=Redressed&fontColor=D05A9D&fontSize=24" width="760"/>
 
 </div>
 
