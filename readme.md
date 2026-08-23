@@ -1,53 +1,56 @@
 <div align="center">
 
-# AMARA TALIB
+<a href="https://github.com/AmaraTalib">
 
-### Computer Science Student · Developer in Progress
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=D05A9D&text=AMARA%20TALIB&fontSize=42&fontAlignY=45&desc=Computer%20Science%20Student%20%C2%B7%20Developer%20in%20Progress&descSize=16&descAlignY=72&descColor=8F7899" width="700"/>
 
-`Java` · `Python` · `C++` · `SQL` · `Web Development`
+</a>
 
-<br>
+<p>
+桜 · 学ぶ · 作る · 成長する
+</p>
 
-**桜 · 学ぶ · 作る · 成長する**
+<p>
+<strong>Learn · Build · Grow</strong>
+</p>
 
-*Learn · Build · Grow*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F7D6E6&height=3&section=header" width="80%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D05A9D&height=3&section=header" width="75%"/>
 
 </div>
 
 ## About Me
 
-I'm a 6th-semester Computer Science student at the International Islamic University, Islamabad.
+I'm a **7th-semester Computer Science student** at the International Islamic University, Islamabad.
 
-I'm currently strengthening my programming and problem-solving skills through coursework and personal projects. I'm particularly interested in **software development** and **computer vision**, while exploring different areas of technology along the way.
+I'm currently strengthening my programming and problem-solving skills through coursework and personal projects. I'm interested in **software development** and **computer vision**, while continuing to explore different areas of technology.
 
-I also enjoy **language learning** and am currently learning Chinese.
+Outside of coding, I'm learning **Chinese** and enjoy discovering new languages, ideas, and technologies.
 
-<br>
-
-<div align="center">
-
-**「 学び続ける 」**
-
-*Keep learning.*
-
-</div>
+> 学び続ける
+> *Keep learning.*
 
 ---
 
 ## Currently Learning
 
-| Area        | Exploring                                 |
-| ----------- | ----------------------------------------- |
-| Programming | Java · Python · C++                       |
-| Web         | HTML · CSS · JavaScript                   |
-| Databases   | SQL · Database Design                     |
-| Development | Git · GitHub · Software Development       |
-| Exploring   | Computer Vision · Artificial Intelligence |
-| Language    | Chinese                                   |
+<div align="center">
+
+| Programming |  Development |        Exploring        |
+| :---------: | :----------: | :---------------------: |
+|     Java    |  HTML · CSS  |     Computer Vision     |
+|    Python   |  JavaScript  | Artificial Intelligence |
+|     C++     | Git · GitHub |   Software Development  |
+|     SQL     |   Databases  |            —            |
+
+</div>
+
+### Chinese
+
+I'm currently learning Chinese and working towards becoming more comfortable with the language.
+
+**你好 · 学习 · 语言 · 未来**
+
+*Hello · Learning · Language · Future*
 
 ---
 
@@ -56,6 +59,14 @@ I also enjoy **language learning** and am currently learning Chinese.
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,mysql,git,github,vscode,eclipse" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+`Java`   `Python`   `C++`   `SQL`   `HTML`   `CSS`   `JavaScript`
 
 </div>
 
@@ -71,7 +82,7 @@ I also enjoy **language learning** and am currently learning Chinese.
 
 A Java-based expense tracker built in Eclipse with MS Access database integration for storing and managing financial transactions.
 
-**Java · Swing · MS Access · JDBC**
+`Java` · `Swing` · `MS Access` · `JDBC`
 
 </td>
 
@@ -81,7 +92,7 @@ A Java-based expense tracker built in Eclipse with MS Access database integratio
 
 A database-driven Event Management System for managing event scheduling, customer registrations, venue bookings and payment records.
 
-**SQL · Database Design**
+`SQL` · `Database Design`
 
 </td>
 </tr>
@@ -93,7 +104,7 @@ A database-driven Event Management System for managing event scheduling, custome
 
 A fitness application that recommends exercises based on a user's weight and available workout time using optimization techniques.
 
-**Optimization · Application Development**
+`Optimization` · `Application Development`
 
 </td>
 
@@ -103,7 +114,7 @@ A fitness application that recommends exercises based on a user's weight and ava
 
 A hospital management application developed using object-oriented programming principles including encapsulation, inheritance and polymorphism.
 
-**Java · OOP**
+`Java` · `OOP`
 
 </td>
 </tr>
@@ -115,7 +126,7 @@ A hospital management application developed using object-oriented programming pr
 
 A database-driven Flight Management System designed to manage flight schedules, passenger bookings and ticketing.
 
-**Database · Software Development**
+`Database` · `Software Development`
 
 </td>
 
@@ -123,9 +134,9 @@ A database-driven Flight Management System designed to manage flight schedules, 
 
 ### Web Development
 
-During my internship at Techironed Solutions, I worked on responsive web pages and improved UI layouts using HTML5 and CSS3.
+Worked on responsive web pages and improved UI layouts during my web development internship.
 
-**HTML5 · CSS3 · UI Design**
+`HTML5` · `CSS3` · `UI Design`
 
 </td>
 </tr>
@@ -152,43 +163,39 @@ During my internship at Techironed Solutions, I worked on responsive web pages a
 International Islamic University, Islamabad
 `2023 — Present`
 
-**FSc**
-Hamza Army Public School and College
-`2021 — 2023`
-
 ---
 
 ## Languages
 
 | Language | Level                       |
-| -------- | --------------------------- |
+| :------- | :-------------------------- |
 | Urdu     | Native                      |
 | English  | Fluent                      |
 | Chinese  | Limited Working Proficiency |
 
 ---
 
-## GitHub
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AmaraTalib&show_icons=true&hide_border=true&bg_color=00000000&title_color=d05a9d&icon_color=d05a9d&text_color=888888" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AmaraTalib&show_icons=true&hide_border=true&bg_color=00000000&title_color=D05A9D&icon_color=C8B6E8&text_color=8F7899" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaraTalib&layout=compact&hide_border=true&bg_color=00000000&title_color=d05a9d&text_color=888888" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaraTalib&layout=compact&hide_border=true&bg_color=00000000&title_color=D05A9D&text_color=8F7899" height="165"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=AmaraTalib&hide_border=true&background=00000000&ring=d05a9d&fire=d05a9d&currStreakLabel=d05a9d" />
+<img src="https://streak-stats.demolab.com?user=AmaraTalib&hide_border=true&background=00000000&ring=D05A9D&fire=C8B6E8&currStreakLabel=D05A9D&sideLabels=8F7899&dates=8F7899" />
 
 </div>
 
 ---
 
-## Contribution Graph
+## Contributions
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmaraTalib&bg_color=00000000&color=888888&line=d05a9d&point=d05a9d&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmaraTalib&bg_color=00000000&color=8F7899&line=D05A9D&point=C8B6E8&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -196,12 +203,16 @@ Hamza Army Public School and College
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F7D6E6&height=3&section=footer" width="80%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F7D6E6&height=3&section=footer" width="75%"/>
 
-<br>
+<br><br>
 
-### 桜
+桜
 
-*Still learning. Still building.*
+### Still learning. Still building.
+
+*少しずつ、前へ。*
+
+*Little by little, forward.*
 
 </div>
