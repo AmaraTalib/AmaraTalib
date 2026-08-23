@@ -70,6 +70,14 @@ I'm currently learning Chinese and working towards becoming more comfortable wit
 
 ---
 
+## Thoughts
+
+<div align="center">
+
+![Developer Quote](https://github-readme-quotes-bay.vercel.app/quote?quoteCategory=programming&theme=light&layout=socrates&font=Redressed)
+
+</div>
+
 ## Selected Projects
 
 <table>
@@ -198,21 +206,7 @@ International Islamic University, Islamabad
 | Arabic   | Elementary Proficiency      |
 ---
 
-## GitHub Activity
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AmaraTalib&show_icons=true&theme=default&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaraTalib&layout=compact&theme=default&hide_border=true" width="48%"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=AmaraTalib&theme=default&hide_border=true" width="70%"/>
-
-</div>
-
----
 
 ## Contributions
 
