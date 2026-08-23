@@ -202,13 +202,13 @@ International Islamic University, Islamabad
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AmaraTalib&show_icons=true&hide_border=true&bg_color=FFF7FA&title_color=D05A9D&icon_color=C8B6E8&text_color=8F7899" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AmaraTalib&show_icons=true&theme=default&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaraTalib&layout=compact&hide_border=true&bg_color=FFF7FA&title_color=D05A9D&text_color=8F7899" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaraTalib&layout=compact&theme=default&hide_border=true" width="48%"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=AmaraTalib&theme=default&hide_border=true&ring=D05A9D&fire=D05A9D&currStreakLabel=D05A9D&sideLabels=8F7899&dates=8F7899&background=FFF7FA" />
+<img src="https://streak-stats.demolab.com/?user=AmaraTalib&theme=default&hide_border=true" width="70%"/>
 
 </div>
 
