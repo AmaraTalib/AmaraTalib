@@ -171,7 +171,6 @@ Worked on responsive web pages and improved UI layouts during my web development
 
 </div>
 
----
 
 <div align="center">
 
@@ -181,7 +180,7 @@ Worked on responsive web pages and improved UI layouts during my web development
 
 
 
-### learning. building.
+### learning ... building ...
 
 *少しずつ、前へ。*
 
